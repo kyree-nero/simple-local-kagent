@@ -35,5 +35,6 @@
     1. set agent name (x)
     1. set some description (x)
     1. change model to 11ama3
+    1. ...wait for the agent to start...
 
 ## ask it a question :)
