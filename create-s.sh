@@ -1,0 +1,16 @@
+kubectl apply -f - <<EOF
+    # ollama-service.yaml
+    apiVersion: v1
+    kind: Service
+    metadata:
+      name: ollama-service
+      namespace: ollama
+    spec:
+      selector:
+        app: ollama
+      ports:
+        - protocol: TCP
+          port: 11434
+          targetPort: 11434
+      type: ClusterIP # Or NodePort for external access
+EOF
