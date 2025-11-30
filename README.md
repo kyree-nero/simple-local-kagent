@@ -40,7 +40,12 @@
     1. change model to 11ama3
     1. ...wait for the agent to start...
 
+![your kagent started](images/kagent-started.png "your k agent started")
+
+
 ## ask it a question :)
+
+![simple ask](images/kagent-simple-ask.png "simple ask")
 
 
 ## clean it up
