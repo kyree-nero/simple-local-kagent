@@ -30,7 +30,7 @@
 
     At this point your terminal will be taken over here too... but good news a kagent ui showed up.
 
-    ![kagent dash](images/kagent-dashboard.png "k agent dash started")
+![kagent dash](images/kagent-dashboard.png "k agent dash started")
 
 
 ## in the ui
