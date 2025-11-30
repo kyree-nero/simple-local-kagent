@@ -45,6 +45,8 @@
 
 ## ask it a question :)
 
+once the agent is ready, ask it something...
+
 ![simple ask](images/kagent-simple-ask.png "simple ask")
 
 
