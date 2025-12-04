@@ -14,9 +14,9 @@
 
 ## lay a model on top of it
 
-    source 3_pull_llm.sh
+    sh 3_pull_llm.sh
     
-    At this point that termal will be taken over... so start a new one for the next step
+    At this point that terminal will be taken over... so start a new one for the next step
 
 ## install kagent
 
@@ -26,7 +26,7 @@
 
 ## create hook for llm for kagent to see
 
-    source 5_add_kagent_instance.sh
+    sh 5_add_kagent_instance.sh
 
     At this point your terminal will be taken over here too... but good news a kagent ui showed up.
 
@@ -37,7 +37,7 @@
     1. click create a new agent
     1. set agent name (x)
     1. set some description (x)
-    1. change model to 11ama3
+    1. change model to tinyllama
     1. ...wait for the agent to start...
 
 ![your kagent started](images/kagent-started.png "your k agent started")

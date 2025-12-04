@@ -1,2 +1,2 @@
-podman machine init --memory 8192
+podman machine init --memory 4096
 podman machine start
